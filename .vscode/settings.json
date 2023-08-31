@@ -1,0 +1,6 @@
+{
+    "explorer.expandSingleFolderWorkspaces": false,
+    "breadcrumbs.filePath": "on",
+    "notebook.breadcrumbs.showCodeCells": true,
+    "explorer.compactFolders": false
+}
